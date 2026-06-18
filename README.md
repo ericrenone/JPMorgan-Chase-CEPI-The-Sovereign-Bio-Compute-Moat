@@ -4,7 +4,6 @@
 ---
 **📌 Last Updated:** June 18, 2026
 **🔬 Author:** ERI Labs (Eric Ren)
-**📊 Strategic Partners:** JPMorgan Chase, CEPI, OQC, TSMC, Intel Loihi 3
 **🌍 Market Focus:** Bio-Compute Infrastructure, Pandemic Response, Quantum Genomics
 
 ---
