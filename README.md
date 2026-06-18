@@ -483,9 +483,9 @@ The **JPMorgan-CEPI coalition** should move forward with **Phase 1 implementatio
 
 ---
 ---
-**📢 Call to Action:**
+
 > *"In a world where compute is power, arithmetic is sovereignty."*
-> — **JPMorgan Chase & OQC, June 2026**
+> — **ERI Labs, June 2026**
 
 **🔗 Repositories:**
 - [THE-WOBBLE-POSITION-HOW-CORDIC-UNLOCKS-THE-HIDDEN-LAYER-OF-LIFE](https://github.com/ericrenone/THE-WOBBLE-POSITION-HOW-CORDIC-UNLOCKS-THE-HIDDEN-LAYER-OF-LIFE)
@@ -493,6 +493,3 @@ The **JPMorgan-CEPI coalition** should move forward with **Phase 1 implementatio
 - [THE-CORDIC-IMPERATIVE-OWNING-THE-ARITHMETIC-OF-NEXT-GEN-BIO-COMPUTE](https://github.com/ericrenone/THE-CORDIC-IMPERATIVE-OWNING-THE-ARITHMETIC-OF-NEXT-GEN-BIO-COMPUTE)
 - [JPMorgan-Chase-CEPI-Strategic-Coalition-for-Pandemic-Response-Infrastructure](https://github.com/ericrenone/JPMorgan-Chase-CEPI-Strategic-Coalition-for-Pandemic-Response-Infrastructure)
 
----
-**© 2026 ERI Labs | JPMorgan Chase | CEPI | OQC**
-*Confidential: Institutional Use Only*
